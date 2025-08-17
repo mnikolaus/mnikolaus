@@ -49,24 +49,31 @@
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="28" title="Zustand" />
   <img width="28" height="28" alt="Jotai" title="Jotai" src="https://github.com/user-attachments/assets/0f67ff97-0a27-4f76-9561-eda57a598cd5" />
   <!-- Testing -->
-  <img src="https://skillicons.dev/icons?i=jest" height="28" title="Jest" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" height="28" title="Vitest" /> 
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" height="28" title="Cypress" /> 
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" height="28" title="Selenium" /> 
-  <img src="https://img.shields.io/badge/Detox-000?style=flat&logo=react&logoColor=61DAFB" height="28" title="Detox" />
+  <img src="https://skillicons.dev/icons?i=jest" height="28" title="Jest" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="28" title="Vitest" /> 
+  <img src="https://skillicons.dev/icons?i=cypress" height="28" title="Cypress" /> 
+  <img src="https://skillicons.dev/icons?i=selenium" height="28" title="Selenium" /> 
+  <img src="https://wix.github.io/Detox/img/logo.png" height="28" title="Detox" /> 
   <!-- CI -->
-  <img src="https://skillicons.dev/icons?i=git" height="28" title="Git" /> <img src="https://skillicons.dev/icons?i=github" height="28" title="GitHub" /> <img src="https://skillicons.dev/icons?i=gitlab" height="28" title="GitLab" /> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" height="28" title="Bitbucket" /> <img src="https://skillicons.dev/icons?i=docker" height="28" title="Docker" /> <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite" /> <img src="https://skillicons.dev/icons?i=webpack" height="28" title="Webpack" /> 
+  <img src="https://skillicons.dev/icons?i=git" height="28" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="28" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="28" title="GitLab" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="28" title="Bitbucket" />
+  <img src="https://skillicons.dev/icons?i=docker" height="28" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=vite" height="28" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="28" title="Webpack" /> 
 
   <img src="https://skillicons.dev/icons?i=graphql" height="28" title="GraphQL" /> 
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logoColor=white" height="28" title="Axios" /> 
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" height="28" title="React Query" /> 
-  <img src="https://img.shields.io/badge/SWR-000?style=flat&logo=vercel&logoColor=white" height="28" title="SWR" /> 
-  <img src="https://img.shields.io/badge/WebSockets-333?style=flat&logo=socketdotio&logoColor=white" height="28" title="WebSockets" /> 
+  <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="28" title="Axios" /> 
+  <img height="28" alt="Tanstack Query" title="Tanstack Query" src="https://github.com/user-attachments/assets/b5a41ae6-e5e6-4cda-8abc-68d14d4265bc" />
+  <img height="28" alt="SWR" title="SWR" src="https://github.com/user-attachments/assets/f0b0cbad-588f-4966-b3f6-1c65e410c089" />
+  <img height="28" alt="Websockets" title="Websockets" src="https://github.com/user-attachments/assets/946d7014-6eea-4727-aa49-9e34381a32d2" />
 
-  <img src="https://skillicons.dev/icons?i=ethereum" height="28" title="Ethereum" />
-  <img src="https://img.shields.io/badge/Wagmi-1E1E1E?style=flat&logo=react&logoColor=61DAFB" height="28" title="Wagmi" />
-  <img src="https://img.shields.io/badge/Viem-1E1E1E?style=flat&logo=ethereum&logoColor=white" height="28" title="Viem" />
-  <img src="https://img.shields.io/badge/RainbowKit-121212?style=flat&logo=react&logoColor=61DAFB" height="28" title="RainbowKit" />
-  <img src="https://img.shields.io/badge/AlgoSDK-000?style=flat&logo=algorand&logoColor=white" height="28" title="AlgoSDK" />
-  <img src="https://img.shields.io/badge/AlgoSDK-000?style=flat&logo=Privy&logoColor=white" height="28" title="Privy" />
+  <img height="28" alt="Etheruem" title="Etheruem" src="https://github.com/user-attachments/assets/57e183a6-9dd1-49e1-ade6-5e389105d267" />
+  <img src="https://docs.wagmi.com/wagmi/~gitbook/image?url=https%3A%2F%2F587341777-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FB2LIlYKuWe8T1B5r4daq%252Fuploads%252FqefafpBtqh2JNmseIfsT%252FFavicon.png%3Falt%3Dmedia%26token%3Dabf4ce78-5d28-429b-bd3c-0dc9539360bb&width=768&dpr=2&quality=100&sign=76c3dc74&sv=2" height="28" title="Wagmi" />
+  <img height="28" alt="Viem" title="Viem" src="https://github.com/user-attachments/assets/a234f5eb-88d3-4607-9460-7d704acb9c9b" />
+  <img src="https://rainbowkit.com/_next/image?url=%2Frainbow-logo.png&w=128&q=75" height="28" title="RainbowKit" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h42DVYnKQXPGZ7kGo60Vjam7NjzAhKNehQ&s" height="28" title="AlgoSDK" />
+  <img src="https://pbs.twimg.com/profile_images/1902346061005676544/e6WybE_v_400x400.jpg" height="28" title="Privy" />
 </div>
 
